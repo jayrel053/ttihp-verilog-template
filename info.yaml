@@ -1,7 +1,7 @@
 # Tiny Tapeout project information
 project:
   title:        "test_IHP"      # Project title
-  author:       "JRL"      # Your name
+  author:       "JayRL"      # Your name
   discord:      ""      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
   description:  "this is a test of the IHP workflow"      # One line description of what your project does
   language:     "Verilog" # other examples include SystemVerilog, Amaranth, VHDL, etc
